@@ -1,0 +1,13 @@
+.header {
+  background-color: #39424e;
+  padding: 10px 0;
+}
+
+.header__title {
+  color: #2ec866;
+  margin: 0;
+}
+
+.header__img {
+  max-width: 80px;
+}
